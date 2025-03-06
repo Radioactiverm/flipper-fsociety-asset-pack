@@ -1,4 +1,8 @@
-# flipper-fsociety-asset-pack7
+# 🐬 | Flipper Zero FSociety Asset Pack
+
+
+
+
 <table>
     <tr align="center">
         <td colspan="3">
@@ -6,7 +10,7 @@
         </td>
     </tr>
     <tr align="center">
-        <td colspan="3">
+        <td width="33%">
             <h2>ER404</h2>
         </td>
     </tr>
