@@ -70,5 +70,8 @@ This is a custom asset pack that i built for my flipper zero, it provides a clea
     </tr>
 </table>
 
+> [!WARNING]
+> Forgot to mention that there are some animations taken from DarkMode asset pack that i forgot to showcase!
+
 
  > Repo strongly inspired by: **[@cyberartemio](https://github.com/cyberartemio/flipper-pirates-asset-pack)**
