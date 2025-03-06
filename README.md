@@ -6,9 +6,13 @@ This is a custom asset pack that i built for my flipper zero, it provides a clea
 ## ✅ | Installation
 > [!TIP]
 > Want to take a look before installing the pack on your flipper? Check the section [below](#-showcase).
-- **Momentum firmware**: [momentum_pirates_asset_pack.zip](https://github.com/cyberartemio/flipper-pirates-asset-pack/raw/main/build/momentum_pirates_asset_pack.zip)
+- **Momentum firmware**: [FSociety.zip](x)
     1. Copy the directory `FSociety/` and paste the folder inside `SD Card/asset_packs`
     2. Open `Momentum` > `Interface` > `Graphics` and select `FSociety` in `Asset Pack`
+## 👀 | Showcase
+
+### ✨ | Animations
+
 <table style="width: 100%; table-layout: fixed; margin: 0; padding: 0;">
     <tr align="center">
         <td style="width: 33%; padding: 0;">
