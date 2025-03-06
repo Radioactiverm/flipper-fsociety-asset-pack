@@ -1,6 +1,6 @@
 # 🐬 | Flipper Zero FSociety Asset Pack
 # flipper-fsociety-asset-pack7
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; margin: 0;">
     <tr align="center">
         <td style="width: 33%; padding: 5px;">
             <img src="GIFs/ER404.gif" alt="" style="width: 100%; height: auto;" />
@@ -56,4 +56,3 @@
         </td>
     </tr>
 </table>
-
