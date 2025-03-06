@@ -69,3 +69,6 @@ This is a custom asset pack that i built for my flipper zero, it provides a clea
         </td>
     </tr>
 </table>
+ ---
+
+ > Repo strongly inspired by: **[@cyberartemio](https://github.com/cyberartemio/flipper-pirates-asset-pack)**
