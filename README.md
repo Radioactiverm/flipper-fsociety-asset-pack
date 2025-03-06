@@ -6,8 +6,8 @@ This is a custom asset pack that i built for my flipper zero, it provides a clea
 ## ✅ | Installation
 > [!TIP]
 > Want to take a look before installing the pack on your flipper? Check the section [below](#--animations).
-- **Momentum firmware**: [FSociety.zip](x)
-    1. Copy the directory `FSociety/` and paste the folder inside `SD Card/asset_packs`
+- **Momentum firmware**: [FSociety.zip](https://github.com/Radioactiverm/flipper-fsociety-asset-pack/blob/main/FSociety.zip)
+    1. Copy the directory `FSociety/` from the extracted .zip and paste the folder inside `SD Card/asset_packs`
     2. Open `Momentum` > `Interface` > `Graphics` and select `FSociety` in `Asset Pack`
 ## 👀 | Showcase
 
