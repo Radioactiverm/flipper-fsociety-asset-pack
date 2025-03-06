@@ -12,13 +12,13 @@
     </tr>
     <tr align="center">
         <td width="33%">
-            <img src="GIFs/ERRORRRR.gif" alt="" />
+            <img src="GIFs/ERORRRR.gif" alt="" />
         </td>
         <td width="33%">
-            <img src="GIFs/FSociety.gif" alt="" />
+            <img src="GIFs/fsociety.gif" alt="" />
         </td>
         <td width="33%">
-            <img src="GIFs/Globe.gif" alt="" />
+            <img src="GIFs/globe.gif" alt="" />
         </td>
     </tr>
     <tr align="center">
@@ -34,13 +34,13 @@
     </tr>
     <tr align="center">
         <td width="33%">
-            <img src="GIFs/Join_Us.gif" alt="" />
+            <img src="GIFs/join_us.gif" alt="" />
         </td>
         <td width="33%">
-            <img src="GIFs/Kitty.gif" alt="" />
+            <img src="GIFs/kitty.gif" alt="" />
         </td>
         <td width="33%">
-            <img src="GIFs/Moustage_Man.gif" alt="" />
+            <img src="GIFs/moustage_man.gif" alt="" />
         </td>
     </tr>
     <tr align="center">
