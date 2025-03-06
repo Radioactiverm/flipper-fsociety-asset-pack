@@ -1,57 +1,59 @@
 # 🐬 | Flipper Zero FSociety Asset Pack
-<table width="100%">
+# flipper-fsociety-asset-pack7
+<table style="width: 100%; table-layout: fixed;">
     <tr align="center">
-        <td width="33%">
-            <img src="GIFs/ER404.gif" alt="" width="100%" />
+        <td style="width: 33%; padding: 5px;">
+            <img src="GIFs/ER404.gif" alt="" style="width: 100%; height: auto;" />
         </td>
-        <td width="33%">
-            <img src="GIFs/ERRORRRR.gif" alt="" width="100%" />
+        <td style="width: 33%; padding: 5px;">
+            <img src="GIFs/ERRORRRR.gif" alt="" style="width: 100%; height: auto;" />
         </td>
-        <td width="33%">
-            <img src="GIFs/FSociety.gif" alt="" width="100%" />
+        <td style="width: 33%; padding: 5px;">
+            <img src="GIFs/FSociety.gif" alt="" style="width: 100%; height: auto;" />
         </td>
     </tr>
     <tr align="center">
-        <td width="33%">
+        <td>
             ER404
         </td>
-        <td width="33%">
+        <td>
             ERRORRRR
         </td>
-        <td width="33%">
+        <td>
             FSociety
         </td>
     </tr>
     <tr align="center">
-        <td width="33%">
-            <img src="GIFs/Globe.gif" alt="" width="100%" />
+        <td style="width: 33%; padding: 5px;">
+            <img src="GIFs/Globe.gif" alt="" style="width: 100%; height: auto;" />
         </td>
-        <td width="33%">
-            <img src="GIFs/Join_Us.gif" alt="" width="100%" />
+        <td style="width: 33%; padding: 5px;">
+            <img src="GIFs/Join_Us.gif" alt="" style="width: 100%; height: auto;" />
         </td>
-        <td width="33%">
-            <img src="GIFs/Kitty.gif" alt="" width="100%" />
+        <td style="width: 33%; padding: 5px;">
+            <img src="GIFs/Kitty.gif" alt="" style="width: 100%; height: auto;" />
         </td>
     </tr>
     <tr align="center">
-        <td width="33%">
+        <td>
             Globe
         </td>
-        <td width="33%">
+        <td>
             Join Us
         </td>
-        <td width="33%">
+        <td>
             Kitty
         </td>
     </tr>
     <tr align="center">
-        <td width="100%">
-            <img src="GIFs/Moustage_Man.gif" alt="" width="100%" />
+        <td colspan="3" style="padding: 5px;">
+            <img src="GIFs/Moustage_Man.gif" alt="" style="width: 100%; height: auto;" />
         </td>
     </tr>
     <tr align="center">
-        <td width="100%">
+        <td colspan="3">
             Moustage Man
         </td>
     </tr>
 </table>
+
