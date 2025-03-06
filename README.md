@@ -1,5 +1,5 @@
 # 🐬 | Flipper Zero FSociety Asset Pack
-<table>
+<table width="100%">
     <tr align="center">
         <td width="33%">
             <img src="GIFs/ER404.gif" alt="" width="100%" />
@@ -26,10 +26,10 @@
         <td width="33%">
             <img src="GIFs/Globe.gif" alt="" width="100%" />
         </td>
-        <td width="50%">
+        <td width="33%">
             <img src="GIFs/Join_Us.gif" alt="" width="100%" />
         </td>
-        <td width="50%">
+        <td width="33%">
             <img src="GIFs/Kitty.gif" alt="" width="100%" />
         </td>
     </tr>
@@ -37,10 +37,10 @@
         <td width="33%">
             Globe
         </td>
-        <td width="50%">
+        <td width="33%">
             Join Us
         </td>
-        <td width="50%">
+        <td width="33%">
             Kitty
         </td>
     </tr>
