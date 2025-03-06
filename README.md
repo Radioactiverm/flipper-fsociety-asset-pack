@@ -5,10 +5,10 @@
             <img src="GIFs/ER404.gif" alt="" width="100%" />
         </td>
         <td width="33%">
-            <img src="GIFs/ERRORRRR.gif" alt="" width="100%" />
+            <img src="GIFs/ERORRRR.gif" alt="" width="100%" />
         </td>
         <td width="33%">
-            <img src="GIFs/FSociety.gif" alt="" width="100%" />
+            <img src="GIFs/fsociety.gif" alt="" width="100%" />
         </td>
     </tr>
     <tr align="center">
@@ -24,13 +24,13 @@
     </tr>
     <tr align="center">
         <td width="33%">
-            <img src="GIFs/Globe.gif" alt="" width="100%" />
+            <img src="GIFs/globe.gif" alt="" width="100%" />
         </td>
         <td width="33%">
-            <img src="GIFs/Join_Us.gif" alt="" width="100%" />
+            <img src="GIFs/join_us.gif" alt="" width="100%" />
         </td>
         <td width="33%">
-            <img src="GIFs/Kitty.gif" alt="" width="100%" />
+            <img src="GIFs/kitty.gif" alt="" width="100%" />
         </td>
     </tr>
     <tr align="center">
@@ -46,7 +46,7 @@
     </tr>
     <tr align="center">
         <td width="100%">
-            <img src="GIFs/Moustage_Man.gif" alt="" width="100%" />
+            <img src="GIFs/moustage_man.gif" alt="" width="100%" />
         </td>
     </tr>
     <tr align="center">
